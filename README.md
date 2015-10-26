@@ -23,7 +23,7 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold =
 16. **Django ORM (Querysets)**
 17. **Dynamic data in templates**
 18. **Django templates**
-19. CSS - make it pretty
+19. **CSS - make it pretty**
 20. Template extending
 21. Extend your application
 22. Django forms
