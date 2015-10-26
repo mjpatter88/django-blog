@@ -10,10 +10,10 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html
 5. **Code editor**
 6. **Introduction to Python**
 7. **What is Django?**
-8. Django installation
-9. Your first django project!
-10. Django models
-11. Django admin
+8. **Django installation**
+9. **Your first django project!**
+10. **Django models**
+11. **Django admin**
 12. Deploy
 13. Django urls
 14. Django views - time to create!
