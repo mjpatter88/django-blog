@@ -1,9 +1,9 @@
 # django-blog
 A blog made with Python and Django
 
-URL: <mjpatter88.pythonanywhere.com>
+URL: <http://mjpatter88.pythonanywhere.com>
 
-I'm going to work through: http://tutorial.djangogirls.org/en/index.html
+I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold = done)
 
 1. **Installation**
 2. **How the Internet works**
