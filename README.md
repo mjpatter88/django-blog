@@ -1,6 +1,8 @@
 # django-blog
 A blog made with Python and Django
 
+URL: <mjpatter88.pythonanywhere.com>
+
 I'm going to work through: http://tutorial.djangogirls.org/en/index.html
 
 1. **Installation**
@@ -14,7 +16,7 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html
 9. **Your first django project!**
 10. **Django models**
 11. **Django admin**
-12. Deploy
+12. **Deploy**
 13. Django urls
 14. Django views - time to create!
 15. Introduction to HTML
