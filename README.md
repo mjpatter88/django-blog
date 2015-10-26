@@ -20,9 +20,9 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold =
 13. **Django urls**
 14. **Django views - time to create!**
 15. **Introduction to HTML**
-16. Django ORM (Querysets)
-17. Dynamic data in templates
-18. Django templates
+16. **Django ORM (Querysets)**
+17. **Dynamic data in templates**
+18. **Django templates**
 19. CSS - make it pretty
 20. Template extending
 21. Extend your application
