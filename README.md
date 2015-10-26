@@ -17,9 +17,9 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold =
 10. **Django models**
 11. **Django admin**
 12. **Deploy**
-13. Django urls
-14. Django views - time to create!
-15. Introduction to HTML
+13. **Django urls**
+14. **Django views - time to create!**
+15. **Introduction to HTML**
 16. Django ORM (Querysets)
 17. Dynamic data in templates
 18. Django templates
