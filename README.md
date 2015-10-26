@@ -4,7 +4,7 @@ A blog made with Python and Django
 I'm going to work through: http://tutorial.djangogirls.org/en/index.html
 
 1. **Installation**
-2. How the Internet works
+2. **How the Internet works**
 3. Introduction to command line
 4. Python installation
 5. Code editor
@@ -41,7 +41,7 @@ First, install homebrew if you haven't yet. Next, run the following commands:
     "brew install pyenv-virtualenv"
 
 A tutorial that I've found useful is this: <http://amaral-lab.org/resources/guides/pyenv-tutorial>
-Now let's install the newest version of Python and create a virtualenv for our project
+Now let's install the newest version of Python and create a virtualenv for our project:
 
     "pyenv install 3.4.3"   (This installs the needed version of Python)
     "pyenv virtualenv 3.4.3 django-blog-343" (This creates a new env using the correct version)
