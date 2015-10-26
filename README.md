@@ -5,9 +5,9 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html
 
 1. **Installation**
 2. **How the Internet works**
-3. Introduction to command line
-4. Python installation
-5. Code editor
+3. **Introduction to command line**
+4. **Python installation**
+5. **Code editor**
 6. Introduction to Python
 7. What is Django?
 8. Django installation
