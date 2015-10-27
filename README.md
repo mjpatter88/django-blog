@@ -25,7 +25,7 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold =
 18. **Django templates**
 19. **CSS - make it pretty**
 20. **Template extending**
-21. Extend your application
+21. **Extend your application**
 22. Django forms
 23. What's next?
 
