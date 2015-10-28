@@ -1,4 +1,4 @@
-# django-blog
+# django-blog (DONE!)
 A blog made with Python and Django
 
 URL: <http://mjpatter88.pythonanywhere.com>
@@ -27,7 +27,7 @@ I'm going to work through: http://tutorial.djangogirls.org/en/index.html (bold =
 20. **Template extending**
 21. **Extend your application**
 22. **Django forms**
-23. What's next?
+23. **What's next?**
 
 - - -
 
